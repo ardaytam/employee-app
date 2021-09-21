@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "0050ae32-6f56-446d-9cd3-1f46809f6ddb",
+		"name": "Employee Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test_Get Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
